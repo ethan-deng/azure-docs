@@ -138,7 +138,7 @@ In this section, you'll create a **server.js** file that contains a slightly mod
    
         git push azure master
    
-    You are prompted for the password that you created earlier. The output is similar to the following example.
+    You are prompted for the password that you created earlier (the user name is the name without the domain part. For example if the FTP/deployment user name is contoso\jack123, then the user name used here should be 'jack123'). The output is similar to the following example.
    
         Counting objects: 3, done.
         Delta compression using up to 8 threads.
